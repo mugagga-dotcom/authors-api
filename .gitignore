@@ -3,3 +3,4 @@ Venv/
 __pycache__/
 *.pyc
 instance/
+#It tells git what it should no track
